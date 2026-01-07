@@ -66,7 +66,7 @@ Cyberbullying has become a major concern on social media platforms, where millio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nithin-nayak08/Detection-of-Cyberbulling.git
+git clone https://github.com/sakethgade/Detection-of-Cyberbullying-Using-Machine-Learning
 ```
 
 2. Install requirements:
@@ -92,5 +92,5 @@ Feel free to fork this repository, create a branch, and submit a pull request.
 
 
 # Contact
-**Author:** Nithin
+**Author:** SAKETH
 **Project:** Detection-of-Cyberbulling Using Machine Learning.
