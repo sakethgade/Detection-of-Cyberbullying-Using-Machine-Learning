@@ -78,7 +78,7 @@ pip install -r requirements.txt
 3. Open the notebook:
 
 ```bash
-jupyter notebook CDetection-of-Cyberbulling.ipynb
+jupyter notebook Detection-of-Cyberbulling.ipynb
 ```
 
 4. Run all cells to train and evaluate the model.
